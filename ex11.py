@@ -1,5 +1,5 @@
 print "How old are you?", #put , to skip endline charater, waiting for user input
-age = int(raw_input())
+age = raw_input()
 print "How tall are you?",
 height = raw_input()
 print "How much do you weigh",
